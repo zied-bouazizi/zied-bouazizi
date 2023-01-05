@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zied
-- 👀 I’m interested in new frameworks
+- 👀 I’m interested in Laravel framework
 - 🌱 I’m currently working as Web Developer
 - 💞️ I’m looking to collaborate on some web projects
 - 📫 How to reach me: zied.bouazizi@outlook.com

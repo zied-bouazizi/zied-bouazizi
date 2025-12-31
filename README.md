@@ -4,4 +4,4 @@
 - 🤝 I’m looking to collaborate on some web projects
 - 📧 How to reach me: zied.bouazizi@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied-bouazizi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-readme-stats.vercel.app/api/top-langs/?username=zied-bouazizi&layout=compact)](https://github.com/zied-bouazizi/github-profile-readme-stats)
